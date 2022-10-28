@@ -1,6 +1,6 @@
 <?php
 
-namespace NCentral_GLPI\inc\Geracao;
+namespace inc\Geracao;
 
 $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
